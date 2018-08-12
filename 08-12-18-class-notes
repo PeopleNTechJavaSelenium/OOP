@@ -1,0 +1,34 @@
+08-12-18-class notes
+
+Submit the quiz.
+
+Inheritance is the process where one acquire the properties of another class.
+
+Single Inheritance. (ClassC—>ClassA)
+Multi-level Inheritance (ClassC—>ClassA—>ClassB)
+Hierarchical Inheritance(ClassC—>ClassA, ClassC—>ClassD, ClassC—>ClassE)
+
+Super class( ClassC)
+Sub class(ClassA, ClassB)
+
+
+Polymorphism is the ability of an object to take on many form.
+
+Method Overloading—> compile time
+Method Overriding——> Run time
+
+Mentoring Session the Week of 08/13:
+
+1) Monday-------> Al Rashid & Juned
+2)Tuesday——> Fahmida & Alif & Sharukh
+3)Wednesday—>Saleem & Ali Pathan & Roy
+4)Thursday—-> Shams & Hasan & Shazzad
+5)Friday———-> Luis & Riadh
+
+Git
+Github
+
+Brew 
+Brew install git
+Git —version
+git version 2.16.2
